@@ -1,0 +1,6 @@
+Abstract classes are classes that contain one or more abstract methods. 
+An abstract method is a method that is declared, but contains no implementation. 
+Abstract classes may not be instantiated, and require subclasses to provide implementations for the abstract methods. 
+The main idea here is to reduce the amount of code since abstract class allows you define a basic functionality leaving undefined parts. 
+
+The dimensions for all shapes is shown using a single statement whereas the area and perimeter is calculated separately for different shapes. Abstraction plays a major role in this context.
